@@ -1,4 +1,4 @@
-# ↔️ Week08 Bootcamp2019a Project: Server Side Palindrome Checker
+# Express Palindrome Checker
 
 ![alt tag](screenshot.png)
 
